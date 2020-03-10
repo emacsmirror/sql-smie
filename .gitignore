@@ -1,0 +1,3 @@
+*.elc
+sql-smie-autoloads.el
+sql-smie-pkg.el
