@@ -44,7 +44,7 @@
   ;; - Terribly incomplete.
   (smie-prec2->grammar
    (smie-bnf->prec2
-    ;; Note: To improve this, http://www.h2database.com/html/grammar.html
+    ;; Note: To improve this, https://www.h2database.com/html/grammar.html
     ;; could be useful.
     '((id)
       (insts ("BEGIN" insts "END")
